@@ -17,7 +17,7 @@ Most of a game is represented for the player from the camera, and it needs, at l
 
 I don't think there is a right answer to create a perfect camera, but I believe that a **second step** to improving it would be stunning**_. "_**_Tunning what?"_ Everything. _"According to what?"_ According to **what you want players to feel while playing the game**. By saying that I mean we always need to understand what the game is providing for the player and if that really makes sense with what the game is really about. Here is an example of a camera in a random **_Racing Game_**.
 
-[description](/images/camera-affordance-2.png)
+![description](/images/camera-affordance-2.png)
 
 On **_Image A_** we see that the camera is close to the character, right? What does the camera **_afford_** by being so close? I believe it affords the sense o **speed**, we see the character in high speed, very close to us and moving through the level.
 
