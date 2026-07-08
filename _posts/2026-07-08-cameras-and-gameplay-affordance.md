@@ -5,8 +5,6 @@ permalink: /posts/2026/07/cameras-and-gameplay-affordance/
 tags:
   - game design
 ---
-Hello everyone!
-
 Today I wanna talk about something that I was working on and realized that there is much more behind then it looks like. **The Camera**.
 
 Cameras are a very important part of the game and according to the book _"Level Up! the Guide to Great Video Game Design"_ over 1 billion TVs are smashed every year because of bad cameras on games. Well, the statistics are not that reliable (completely made up), we understand that cameras are a big deal. 
