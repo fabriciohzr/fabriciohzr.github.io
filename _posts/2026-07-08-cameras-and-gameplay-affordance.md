@@ -8,6 +8,7 @@ tags:
 Hello everyone!
 
 ![](https://static.wixstatic.com/media/99f195_3126abb414524a3ba602101e400360e7~mv2.png/v1/fill/w_358,h_201,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/99f195_3126abb414524a3ba602101e400360e7~mv2.png)
+
 Today I wanna talk about something that I was working on and realized that there is much more behind then it looks like. **The Camera**.
 
 Cameras are a very important part of the game and according to the book _"Level Up! the Guide to Great Video Game Design"_ over 1 billion TVs are smashed every year because of bad cameras on games. Well, the statistics are not that reliable (completely made up), we understand that cameras are a big deal. 
