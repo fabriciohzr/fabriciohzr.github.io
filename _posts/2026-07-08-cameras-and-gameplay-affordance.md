@@ -7,19 +7,17 @@ tags:
 ---
 Hello everyone!
 
-![](https://static.wixstatic.com/media/99f195_3126abb414524a3ba602101e400360e7~mv2.png/v1/fill/w_358,h_201,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/99f195_3126abb414524a3ba602101e400360e7~mv2.png)
-
 Today I wanna talk about something that I was working on and realized that there is much more behind then it looks like. **The Camera**.
 
 Cameras are a very important part of the game and according to the book _"Level Up! the Guide to Great Video Game Design"_ over 1 billion TVs are smashed every year because of bad cameras on games. Well, the statistics are not that reliable (completely made up), we understand that cameras are a big deal. 
 
-![](https://static.wixstatic.com/media/99f195_d32ae4acc72e4543b2ba9e5ecce9bbb3~mv2.png/v1/fill/w_387,h_218,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/99f195_d32ae4acc72e4543b2ba9e5ecce9bbb3~mv2.png)
+![description](/images/camera-affordance-1.png)
 
 Most of a game is represented for the player from the camera, and it needs, at least, to connect with the game genre. I believe for a **first step**, the camera should helping the game genre to feel "good". What do I mean by "good"?. That it must show everything, as players, need to know and what can we do. What I want to talk about today is how can we improve this so the camera can **afford** even more the gameplay experience.
 
 I don't think there is a right answer to create a perfect camera, but I believe that a **second step** to improving it would be stunning**_. "_**_Tunning what?"_ Everything. _"According to what?"_ According to **what you want players to feel while playing the game**. By saying that I mean we always need to understand what the game is providing for the player and if that really makes sense with what the game is really about. Here is an example of a camera in a random **_Racing Game_**.
 
-![](https://static.wixstatic.com/media/99f195_9a3b232a9ffc456fb59bd35996052c45~mv2.png/v1/fill/w_740,h_416,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/99f195_9a3b232a9ffc456fb59bd35996052c45~mv2.png)
+[description](/images/camera-affordance-2.png)
 
 On **_Image A_** we see that the camera is close to the character, right? What does the camera **_afford_** by being so close? I believe it affords the sense o **speed**, we see the character in high speed, very close to us and moving through the level.
 
