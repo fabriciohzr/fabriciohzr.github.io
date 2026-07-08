@@ -1,5 +1,5 @@
 ---
-title: "Cameras and Gameplay Affordance"
+title: "Cameras and Gameplay Feelings"
 date: 2026-07-08
 permalink: /posts/2026/07/cameras-and-gameplay-affordance/
 tags:
