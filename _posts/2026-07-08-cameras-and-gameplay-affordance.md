@@ -1,6 +1,6 @@
 ---
 title: "Cameras and Gameplay Affordance"
-date: 2026-07-08
+date: 2020-04-05
 permalink: /posts/2026/07/cameras-and-gameplay-affordance/
 tags:
   - game design
