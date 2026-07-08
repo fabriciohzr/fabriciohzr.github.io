@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fabrício Roepcke = Game Design Website"
+title: "Fabrício Roepcke - Game Design Website"
 author_profile: true
 redirect_from: 
   - /about/
