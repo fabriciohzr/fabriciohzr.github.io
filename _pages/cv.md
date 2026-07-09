@@ -1,14 +1,5 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
----
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -16,123 +7,139 @@ redirect_from:
   - /resume
 ---
 
-<a href="/files/fabricio_roepcke_leveldesigner.pdf" class="btn btn--primary" style="margin-bottom: 1.5em;">⬇ Download PDF</a>
+<a href="/files/fabricio_roepcke_leveldesigner.pdf" class="btn btn--primary" style="margin-bottom: 1.5em;">&#11015; Download PDF</a>
 
----
+<hr>
 
-Experienced Game and Level Designer who has worked on multiple game projects from indie, to casual and competitive games, both on singleplayer and multiplayer experiences. Working for over 8+ years in the gaming industry I had the experience of participating in game projects for PC, Mobile and Consoles with small indie teams and big AAA teams!
+<p>Experienced Game and Level Designer who has worked on multiple game projects from indie, to casual and competitive games, both on singleplayer and multiplayer experiences. Working for over 8+ years in the gaming industry I had the experience of participating in game projects for PC, Mobile and Consoles with small indie teams and big AAA teams!</p>
 
----
+<hr>
 
 <div style="display: flex; gap: 3em; align-items: flex-start;">
 
 <div style="flex: 3; min-width: 0;">
 
-## <span style="color: #4bbfbf;">EXPERIENCE</span>
+<h2><span style="color: #4bbfbf;">EXPERIENCE</span></h2>
 
----
+<hr>
 
-### Epic Games <span style="font-weight: normal; color: #888; font-size: 0.9em;">- Epic Games Brasil, former Aquiris</span>
+<h3>Epic Games <span style="font-weight: normal; color: #888; font-size: 0.9em;">- Epic Games Brasil, former Aquiris</span></h3>
 
-**Level Designer** - December 2023 to Present  
-*Fortnite Battle Royale, Lego Fortnite, Wonderbox*
+<p><strong>Level Designer</strong> - December 2023 to Present<br>
+<em>Fortnite Battle Royale, Lego Fortnite, Wonderbox</em></p>
 
-- Creating 3D gameplay spaces for Fortnite Battle Royale in UE5 using World Partition, Modular Kits, and Landscape systems.
-- Using Blueprint Scripting to create and maintain gameplay events and internal development tools.
+<ul>
+  <li>Creating 3D gameplay spaces for Fortnite Battle Royale in UE5 using World Partition, Modular Kits, and Landscape systems.</li>
+  <li>Using Blueprint Scripting to create and maintain gameplay events and internal development tools.</li>
+</ul>
 
-**Senior Game Designer** - April 2023 until December 2023
+<p><strong>Senior Game Designer</strong> - April 2023 until December 2023</p>
 
-- Balanced systems and gameplay items for Fortnite Battle Royale
-- Helped manage and balance systems and features for Lego Fortnite
-- Designed systems and gameplay features for Wonderbox: The Adventure Maker
+<ul>
+  <li>Balanced systems and gameplay items for Fortnite Battle Royale</li>
+  <li>Helped manage and balance systems and features for Lego Fortnite</li>
+  <li>Designed systems and gameplay features for Wonderbox: The Adventure Maker</li>
+</ul>
 
----
+<hr>
 
-### Afterverse
+<h3>Afterverse</h3>
 
-**Game Designer** - March 2022 until October 2022  
-*PKXD, XDRP*
+<p><strong>Game Designer</strong> - March 2022 until October 2022<br>
+<em>PKXD, XDRP</em></p>
 
-- Designed and balanced gameplay systems, and level design spaces for the 3D online games PKXD and XDRP.
+<ul>
+  <li>Designed and balanced gameplay systems, and level design spaces for the 3D online games PKXD and XDRP.</li>
+</ul>
 
----
+<hr>
 
-### Hoplon
+<h3>Hoplon</h3>
 
-**Game Designer** - February 2021 until February 2022  
-*Heavy Metal Machines, Mobile Games*
+<p><strong>Game Designer</strong> - February 2021 until February 2022<br>
+<em>Heavy Metal Machines, Mobile Games</em></p>
 
-- Heavy Metal Machines Live Ops content plans, and techinical features for consoles.
-- Led the vision on mobile games alongside the development team, documenting and implementing systems from early stages to Live Ops events. Also created gameplay content for many different casual games.
+<ul>
+  <li>Heavy Metal Machines Live Ops content plans, and techinical features for consoles.</li>
+  <li>Led the vision on mobile games alongside the development team, documenting and implementing systems from early stages to Live Ops events. Also created gameplay content for many different casual games.</li>
+</ul>
 
----
+<hr>
 
-### Flipstar
+<h3>Flipstar</h3>
 
-**Game & Level Designer** - November 2017 until February 2021  
-*Crystal Chasers League, Infinite*
+<p><strong>Game &amp; Level Designer</strong> - November 2017 until February 2021<br>
+<em>Crystal Chasers League, Infinite</em></p>
 
-- Led the Level Design experience by conceptualizing, prototyping, playtesting and iterate on online multiplayer levels.
-- Designed and documented systems for gameplay combat, items, AI behaviour and progression; Helped create and maintain the game's visions, milestones and roadmap.
+<ul>
+  <li>Led the Level Design experience by conceptualizing, prototyping, playtesting and iterate on online multiplayer levels.</li>
+  <li>Designed and documented systems for gameplay combat, items, AI behaviour and progression; Helped create and maintain the game's visions, milestones and roadmap.</li>
+</ul>
 
-🏆 Crystal Chasers League - Best Social Game GCA 2019
+<p>&#127942; Crystal Chasers League - Best Social Game GCA 2019</p>
 
----
+<hr>
 
-### G2E UFSC
+<h3>G2E UFSC</h3>
 
-**Game Designer - Intern** - September 2016 until December 2017  
-*The Rotfather*
+<p><strong>Game Designer - Intern</strong> - September 2016 until December 2017<br>
+<em>The Rotfather</em></p>
 
-- Documented gameplay systems, and level design. Also developed playtesting sessions with users to gather feedback and propose iterations.
+<ul>
+  <li>Documented gameplay systems, and level design. Also developed playtesting sessions with users to gather feedback and propose iterations.</li>
+</ul>
 
 </div>
 
 <div style="flex: 2; min-width: 0;">
 
-## <span style="color: #4bbfbf;">EDUCATION</span>
+<h2><span style="color: #4bbfbf;">EDUCATION</span></h2>
 
----
+<hr>
 
-**Level Design for Games**  
-2022  
-CGMA Academy
+<p><strong>Level Design for Games</strong><br>
+2022<br>
+CGMA Academy</p>
 
-**Design - 2D & 3D Animation**  
-2015 - 2018 - Bachelor's degree  
-Federal University of Santa Catarina
+<p><strong>Design - 2D &amp; 3D Animation</strong><br>
+2015 - 2018 - Bachelor's degree<br>
+Federal University of Santa Catarina</p>
 
-**Game Design with focus on "Fun"**  
-2016  
-Ludumcraft
+<p><strong>Game Design with focus on "Fun"</strong><br>
+2016<br>
+Ludumcraft</p>
 
----
+<hr>
 
-## <span style="color: #4bbfbf;">SKILLS</span>
+<h2><span style="color: #4bbfbf;">SKILLS</span></h2>
 
----
+<hr>
 
-- Communication
-- Level Design & Blockout
-- Blueprint Scripting
-- Landscape Environments
-- Systems Design
-- Player Psychology
-- Prototyping
-- Iterative Design
+<ul>
+  <li>Communication</li>
+  <li>Level Design &amp; Blockout</li>
+  <li>Blueprint Scripting</li>
+  <li>Landscape Environments</li>
+  <li>Systems Design</li>
+  <li>Player Psychology</li>
+  <li>Prototyping</li>
+  <li>Iterative Design</li>
+</ul>
 
----
+<hr>
 
-## <span style="color: #4bbfbf;">TOOLS</span>
+<h2><span style="color: #4bbfbf;">TOOLS</span></h2>
 
----
+<hr>
 
-- Unreal Engine
-- Unity 3D
-- Blender
-- Adobe Softwares
-- Spreadsheets
-- Version Control
+<ul>
+  <li>Unreal Engine</li>
+  <li>Unity 3D</li>
+  <li>Blender</li>
+  <li>Adobe Softwares</li>
+  <li>Spreadsheets</li>
+  <li>Version Control</li>
+</ul>
 
 </div>
 
