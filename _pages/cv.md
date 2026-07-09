@@ -18,7 +18,7 @@ redirect_from:
 
 <hr>
 
-<div style="display: flex; gap: 3em; align-items: flex-start;">
+<div style="display: flex; gap: 3em; align-items: flex-start; margin-top: -1.5em;">
 
 <div style="flex: 3; min-width: 0;">
 
