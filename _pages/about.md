@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ 
 
 Hello there! I am Fabrício! Experienced Game Designer who has worked on multiple game projects from indie to casual and competitive games, both on singleplayer and multiplayer experiences. Working for over 10+ years in the games industry I had the experience of participating in game projects for PC, Mobile, and Consoles with small indie projects and big AAA teams!
 
