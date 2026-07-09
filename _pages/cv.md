@@ -14,7 +14,7 @@ redirect_from:
 
 <hr>
 
-<p>Experienced Game and Level Designer who has worked on multiple game projects from indie, to casual and competitive games, both on singleplayer and multiplayer experiences. Working for over 8+ years in the gaming industry I had the experience of participating in game projects for PC, Mobile and Consoles with small indie teams and big AAA teams!</p>
+<p>Experienced Game and Level Designer who has worked on multiple game projects from indie, to casual and competitive games, both on singleplayer and multiplayer experiences. Working for over 10+ years in the gaming industry I had the experience of participating in game projects for PC, Mobile and Consoles with small indie teams and big AAA teams!</p>
 
 <hr>
 
