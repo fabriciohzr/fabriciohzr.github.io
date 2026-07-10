@@ -12,11 +12,11 @@ main:
   - title: "Resume"
     url: /cv/    
 
-  - title: "Professional Projects"
-    url: /professional-projects/   
+  #  - title: "Professional Projects"
+  #    url: /professional-projects/   
     
-  - title: "Personal Projects"
-    url: /personal-projects/
+  #  - title: "Personal Projects"
+  #    url: /personal-projects/
         
   - title: "Blog"
     url: /year-archive/
