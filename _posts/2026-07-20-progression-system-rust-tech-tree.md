@@ -13,7 +13,7 @@ To get to the objective for this article, we will talk about RUST and follow a p
 
 RUST is a Survival Multiplayer Game with Procedural Worlds that reset every month. You can explore RUST's world as you want, by gathering, crafting, building bases, fighting NPCs, and fighting players.
 
-![[Pasted image 20260720083528.png]]
+![description](/images/rust-techtree-1.png)
 
 RUST's Tech Tree is simple to understand, players interact with to unlock Crafting Recipes (1), and these Crafting Recipes are connected to one another through Progression Lines (2). Players need to unlock item by item, and high tier items are gated behind low tier items. But even with items being gated by other items in a Progression Line, you can still choose paths to progress inside the Tech Tree, more specifically to specialize on different parts of the game.
 
