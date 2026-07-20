@@ -1,7 +1,7 @@
 ---
 title: "Progression System - How RUST is engaging even without its main progression mechanics"
 date: 2026-07-08
-permalink: /posts/2026/07/cameras-and-gameplay-affordance/
+permalink: /posts/2026/07/rust-progression-analysis/
 tags:
   - game design
 ---
