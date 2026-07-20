@@ -11,7 +11,7 @@ To get to the objective, we will talk about RUST and follow a process called Dim
 
 **RUST**
 
-RUST is a Survival Multiplayer Game with Procedural Worlds that reset every month. You can explore RUST’s world as you want, by gathering, crafting, building bases, fighting NPCs, and fighting players.
+RUST is a Survival Multiplayer Game with Procedural Worlds that reset every month. You can explore RUST’s world as you want, by crafting, building bases, fighting NPCs, and fighting players.
 
 ![description](/images/rust-techtree-1.png)
 
