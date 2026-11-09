@@ -100,6 +100,10 @@ redirect_from:
 
 <hr>
 
+<p><strong>Mastering System Design</strong><br>
+2026<br>
+Game Design Skills</p>
+
 <p><strong>Level Design for Games</strong><br>
 2022<br>
 CGMA Academy</p>
