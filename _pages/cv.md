@@ -28,7 +28,7 @@ redirect_from:
 
 <h3>Epic Games <span style="font-weight: normal; color: #888; font-size: 0.9em;">- Epic Games Brasil, former Aquiris</span></h3>
 
-<p><strong>Level Designer</strong> - December 2023 to Present<br>
+<p><strong>Level Designer</strong> - December 2023 to August 2026<br>
 <em>Fortnite Battle Royale, Lego Fortnite, Wonderbox</em></p>
 
 <ul>
